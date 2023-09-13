@@ -19,6 +19,9 @@ Welcome to the ARM Cortex-M3 Firmware modules repository! This repository contai
    - EEPROM (Electrically Erasable Programmable Read-Only Memory)
    - Battery Indicator
 
+## Requirements
+
+ARM Cortex M3 device drivers.
 
 ## Module Structure
 
